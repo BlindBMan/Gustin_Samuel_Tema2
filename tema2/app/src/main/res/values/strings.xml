@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tema2</string>
+    <string name="first_and_last_name">First and last Name</string>
+    <string name="mark">Mark</string>
+    <string name="add_user">add user</string>
+    <string name="remove_user">remove user</string>
+    <string name="error">error</string>
+</resources>
